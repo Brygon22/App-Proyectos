@@ -1,6 +1,6 @@
 <?php
 
-$db = mysqli_connect('localhost', 'root', '03072000', '');
+$db = mysqli_connect('localhost', 'root', '', '');
 
 
 if (!$db) {
